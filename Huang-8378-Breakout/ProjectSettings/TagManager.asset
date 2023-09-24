@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Break
   - Wall
+  - RestartSpace
   layers:
   - Default
   - TransparentFX
