@@ -7,6 +7,7 @@ TagManager:
   - Break
   - Wall
   - RestartSpace
+  - Paddle
   layers:
   - Default
   - TransparentFX
